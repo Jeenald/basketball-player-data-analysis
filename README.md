@@ -8,25 +8,25 @@
 
 (The client side visible-page)
 
-![abc](Image/abc.png)
+![abc](Images/abc.png)
 
 ### Dropdown menu for selecting year:
 
-![bce](Image/bce.png)
+![bce](Images/bce.png)
 
 ### Droupdown menu for Team selection:
 
-![cde](Image/cde.png)
+![cde](Images/cde.png)
 
 ### Droupdown menu for position selection:
 
-![def](Image/def.png)
+![def](Images/def.png)
 
 ### Heatmap:
 
 (Heatmap is genrated after clicking on button: Intercorrelation Heatmap)
 
-![efg](Image/efg.png)
+![efg](Images/efg.png)
 
 # Getting Started with Creating Python App and Running the project on Streamlit Network
 
