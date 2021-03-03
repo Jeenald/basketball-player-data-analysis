@@ -57,4 +57,6 @@ This library is used for running base64 used for downloading csv files. It helps
 
 This libraries are used for creating Heatmap.
 
+## Run the app
+### Streamlit run basketball-app.py 
 
